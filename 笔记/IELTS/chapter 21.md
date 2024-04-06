@@ -748,6 +748,16 @@ charitable a.慈善的
 
 The land demised to a charitable institution.
 
+## doom n.厄运 v.注定失败
+
+doom sth to 使某事注定
+
+meet one's doom 死亡
+
+dissonance n.失调
+
+Dissonance among the three partners doomed the project.
+
 ## fatal a.致命的，决定性的
 
 The fatal hour has come.
@@ -755,4 +765,1112 @@ The fatal hour has come.
 ## lethal a.致命的
 
 This pesticide is not only lethal to peasts,but also dangerous for your pets.
+
+## corpus n.尸体，文集，本金
+
+He asked his children to have his corpus burnt after his death.
+
+## overwork n/v.过度工作
+
+I was completely knackered from overwork.
+
+## exhaust v.耗尽，使精疲力尽
+
+exhausted a.精疲力尽的
+
+troop n.部队
+
+demoralised a.士气低落的
+
+The enemy troops were exhausted and demoralised.
+
+## fatigue n.疲劳 v.使疲劳
+
+The patient fatigues easily.
+
+## faint a.模糊的，虚弱的 v.晕倒
+
+He felt faint because of starvation.
+
+## feeble a.虚弱的
+
+Grandmother has been getting feeble lately.
+
+## weary a.疲倦的
+
+be weary of 对...感到疲惫
+
+saddle n.马鞍
+
+After many hours in the saddle,he wqs very weary
+
+## weaken v.减弱
+
+weak a.弱的
+
+weakly av.弱地
+
+weakness n.弱电
+
+transplate v.移植
+
+immune system 免疫系统
+
+Because transplants weaken the immune system,they cannot be performed on sick patients.
+
+## unconscious a.无意识的
+
+conscious a.有意识的
+
+consciousness n.意识
+
+conscience n.良心
+
+This wounded soldier was unconscious from his loss of blood.
+
+## chronic a.慢性的
+
+a chronic disease 慢性病
+
+He is good at treating chronic diseased patients.
+
+## acute a.急性的，深刻的
+
+He has given an acute analysis of the situation.
+
+## sore a.疼痛的，恼火的，严重的
+
+My legs are sore from all that runninf yesterday.
+
+## sorrow n.悲伤
+
+He told me with sorrow that his mother was very ill.
+
+## lament n.悲伤，哀悼 v.哀悼
+
+He lamented his thoughtless acts.
+
+## therapy n.治疗
+
+therapist n.治疗专家
+
+Physical therapy will alternate with chemical therapy.
+
+## sanitary a.卫生的
+
+There was a small and not very sanitary inn nearby.
+
+## curative a.治疗的 n.药品
+
+This herb was once thought to be curative.
+
+## hygiene n.卫生
+
+Wash yourself regularly to ensure personal hygiene.
+
+## fitness n.健康
+
+a fitness centre 健身中心
+
+stamina n.耐力
+
+The long climb tested our fitness and stamina.
+
+## clinic n.诊所
+
+clinical a.临床的
+
+a school clinic 学校门诊部
+
+the psychological clinic is located near the newly-built railway station.
+
+## physician n.内科医生
+
+surgeon n.外科医生
+
+He perfers to be a surgeon rather than a physican.
+
+## surgeon n.外科医生
+
+surgery n.手术室
+
+The surgeon has performed an operation.
+
+## operation n.手术，操作，运作
+
+operator n.操作员
+
+perform an operation 做手术
+
+The operation of this machine is simple.
+
+## cure v.治疗 n.疗法
+
+Endure v.忍受
+
+What can't be cured must be endured.
+
+## heal v.治好
+
+heal-all 万能药
+
+The terrible wound took a long time to heal.
+
+## treatment n.疗法，待遇
+
+treat v.治疗，处理，请客
+
+A proper treatment will do great good to both his body and his psychology.
+
+## check v.检查 n.账单
+
+Do look out for spelling mistakes when you check your homework.
+
+## prescription n.处方，秘诀
+
+prescibe v.开处方，指定
+
+What's your prescription for a happy marriage.
+
+## transplant v.移植
+
+The patient rejected the transplanted heart.
+
+## injection n.注射
+
+inject v.注射
+
+give sb an injection 给sb打针
+
+alleviate v.缓解
+
+The doctor gave her an injection to alleviate the pain.
+
+## precaution n.预防，警惕
+
+crucial a.关键的
+
+Safety first,precaution crucial.
+
+## vaccinate v.接种疫苗
+
+Many people are vaccinated against smallpox as children.
+
+## quarantine v/n.检疫
+
+abolish v.废除
+
+The quarantine is now abolished.
+
+## segregate v.隔离
+
+separate v.分开
+
+The doctor segregated the child sick with fever.
+
+## isolate v.隔离
+
+The farm is isolated and the nearest house is 30 kilometres away.
+
+## pharmacy n.药店，药剂
+
+pharmacist n.药剂师
+
+pharmaceutical a.制药的
+
+drug n.药，毒品
+
+In the West,you probably don't go to the hospital to buy drugs,you go to pharmacy or drugstore.
+
+## remedy n.药物，解决方法
+
+Your only remedy is to go to law.
+
+## pill n.药丸
+
+The doctor told him to take six pills a day until he fully recovered.
+
+## antibiotic n.抗生素
+
+factory n.工厂
+
+The factory is specialised in the production of antibiotic.
+
+## acupuncture n.针灸
+
+Puncture v.刺破
+
+Do you believe in Chinese acupuncture?
+
+## penicillin n.青霉素
+
+He gave me a second shot of penicillin.
+
+## morphine n.吗啡
+
+Morphine,like cocaine,is addictive.
+
+## dose n.一剂 v.给..服药
+
+Take one dose of this cough syrup three times a day.
+
+## recovery n.恢复
+
+recover v.重新得到，恢复
+
+We are surprised by the speed of her recovery.
+
+## refresh v.恢复精神
+
+refresh sb's memory 使sb想起
+
+refreshing a.消除疲惫的，耳目一新的
+
+A cool drink refreshed me after my long walk.
+
+## relief n.宽慰，减轻
+
+I felt great relief when i heard i had passed the examination.
+
+## alleviate v.减轻
+
+The doctor gave her an injection to alleviate the pain.
+
+## resume v.重新开始
+
+We resumed our work after a rest.
+
+## ease v.减轻，缓和 n.悠闲
+
+He is expected to win the game with ease.
+
+## optimistic a.乐观的
+
+optimism n.乐观
+
+optimist n.乐观主义者
+
+We are optimistic about its future.
+
+## pessmistic a.悲观的
+
+He is pessimistic about the future.
+
+## passive a.消极的
+
+passive smoking 被动吸烟，吸二手烟
+
+It lands the manager in a passive position.
+
+## enthusiastic a.热心的
+
+enthusiasm n.热心
+
+You were so enthusiastic,so i couldn't say 'no' to your invitation.
+
+## indifferent a.不关心的，平庸的，中立的
+
+remain indifferent 保持中立
+
+He is indifferent to the result of the exam.
+
+## negligible a.微不足道的
+
+The damage to my car is negligible.
+
+## rejoice v.使高兴
+
+We rejoiced at the good news.
+
+ ## thrill v.激动 n.激动
+
+it's a sight that never fails to thrill me.
+
+## cheer v.欢呼
+
+cheer up 使振作起来
+
+cheerful a.快乐的
+
+They beat drums to cheer up the players.
+
+## agreeable a.使人愉快的，同意的
+
+My parents are quite agreeable to my decision to study abroad.
+
+## exhilarate v.使兴奋
+
+bold a.大胆的
+
+His bold designs always exhilarate the viewers.
+
+## satisfactory a.满意的
+
+satisfy v.使满意
+
+satisfaction n.满意
+
+dissatisfy v.使不满意
+
+The efficacy of the medicine is satisfactory.
+
+## desirable a.可取的
+
+It is most desirable that he should attend the conference.
+
+## keen a.强烈的，渴望的
+
+Woollen n.毛衣
+
+They are rather keen on your new-type woollens.
+
+## fond a.溺爱的，喜爱的
+
+spoil v.溺爱
+
+A fond mother may spoil her children.
+
+## favour n.偏爱，赞同，帮助
+
+ask a favour of sb. 请sb帮忙
+
+Would you please do me a favour?
+
+## surprising a.出人惊讶的
+
+surprise v.惊奇
+
+surprisingly av.惊人地
+
+It is surprising that a man like that was elected.
+
+## startle v/n.吃惊 
+
+he was startled by the news.
+
+## astound v.吃惊
+
+He was astounded when he heard that his son had taken drugs.
+
+## hectic a.繁忙的
+
+The journalist lead a hectic life.
+
+## generous a.慷慨的，宽厚的
+
+charity n.慈善
+
+She was always very generous in making donations to charity.
+
+## humble a.谦虚的
+
+Being humble means that you do not allow your current opinions and belirfs to get in the way of new learning.
+
+## modest a.谦虚的
+
+She is very modest about the prizes she has won.
+
+## frank a.坦白的
+
+A frank discussion can help clean the air.
+
+## mysterious a.神秘的，不可思议的
+
+mystery n.神秘
+
+enchanter n.巫师
+
+That enchanter is very mysterious.
+
+## curious a.好奇的
+
+curiosity n.好奇心
+
+## dearing a.大胆的，勇敢的
+
+He had proved himself a most daring adventurer.
+
+## manly a.果断的，有男子气概的
+
+unmanly a.无男子气概的
+
+womanly a.女性特有的
+
+He looks very manly in his uniform.
+
+## direct a.直接的，直率的
+
+direction n.方向，指导
+
+Hijacker n.劫持者
+
+I'm in direct contact with the hijackers.
+
+## earnest a.认真的
+
+earnestly av.认真地
+
+I'm sure he was earnest when he said he would come.
+
+## honesty n.诚实
+
+in all honesty 说实话
+
+I respect you for your honesty.
+
+## rational a.合理的，理性的
+
+rationality n.合理性
+
+a rational suggestion 合理的建议
+
+Man is a rational being.
+
+## stern a.严厉的，坚定的
+
+a stern warning 严正警告
+
+sternly av.严厉地
+
+Sternness n.苛刻
+
+She had a stern father who never praised her.
+
+## hospitable a.好客的
+
+hospitality n.好客
+
+Be hospitable.sometims cups of tea or even slices of taost can give you a head start on making friends.
+
+## romantic a.浪漫的
+
+It is said that Frenchmen are among the most romantic peoples in the world.
+
+## concern n/v.关心 
+
+be concerned about 关心
+
+everyday concerns 日常事务
+
+As far as i am concerned,i'm not against your plan.
+
+## considerate a.考虑周到的
+
+It was considerate of you to bring me my raincoat.
+
+## thoughtful a.认真思考的，考虑周到的
+
+It was thoughtful of you to inform me of your arrival.
+
+## sympathetic a.同情的，和谐的
+
+sympathy n.同情
+
+Sympathise v.同情
+
+victim n.受害者
+
+The volunteers felt sympathetic to the victims.
+
+## mercy n.仁慈
+
+We were treated with mercy.
+
+## gratitude n.感谢
+
+I am full of gratitude to you for helping me.
+
+## eager a.渴望的
+
+## picturesque a.如画的，独特的
+
+I was attracted by the picturesquescene on the West Lake.
+
+## prominent a.突出的，重要的
+
+A single tree in a field is prominent.
+
+## awesome a.卓越的
+
+## arduous a.辛勤的，费力的，陡峭的
+
+an arduous task 艰难的工作
+
+In those days,long-distance travel was slow and arduous.
+
+## tough a.艰难的，坚强的，强硬的
+
+a tough policy 强硬的政策
+
+You need to be tough to survive in a society full of competition
+
+## robust a.强壮的
+
+counterpoise n.对位
+
+His robust strength was a counterpoise to the disease.
+
+## sturdy a.强健的
+
+The child has sturdy legs.
+
+## steadfast a.坚定的
+
+He was a steadfast bachlor and intended to remain so.
+
+## tender a.脆弱的，温柔的，疼痛的 v.提出，对标
+
+tender for 投标
+
+My finger is tender because i cut it on a piece of glass yeserday.
+
+## delicate a.精致的，微妙的，脆弱的
+
+Delicate plants must be protected from cold wind and frost.
+
+## mundane a.平凡的，世界的
+
+Even the most mundane things can become objects of beauty in a Frenchman's eyes.
+
+## naive a.幼稚的
+
+He makes fun of her naive attitude.
+
+## childish a.幼稚的，孩子的
+
+The little girl spke in a high childish voice.
+
+## sincere a.真诚的
+
+Please accept my sincere congratulations.
+
+## liable a.有责任的，有可能的
+
+be liable for 对..负责
+
+be liable to sth 可能收sth影响
+
+be liable to do sth 有做sth的倾向
+
+He is liable to come today.
+
+## trustworthy a.可靠的
+
+The firm is one of our most trustworthy concerns.
+
+## enterprising a.有事业心的，有魄力的
+
+Some enterprising students are designing management software for the university.
+
+## sane a.心智健全的
+
+Insane a.疯狂的
+
+He is a very sane person.
+
+## strenuous a.发奋的，艰苦的
+
+Sterry's been making a strenuous effort to lose weight.
+
+## rigorous a.严格的，一丝不苟的
+
+discipline n.学科，纪律
+
+We should obey the rigorous discipline.
+
+## severe a.严厉的
+
+severely av.严重地
+
+That severe teacher has gone abroad,so you can breathe freely against.
+
+## mutual a.相互的，共同的
+
+neutra a.中立的
+
+You need mutual understanding to set up your cooperation.
+
+## resemble v.类似
+
+She resembles her sister in appearance but not in character.
+
+## similar a.相似的
+
+be similar to  与..相似
+
+similarity n.相似点
+
+similarly av.相似地
+
+I know how you feel,because I've had a similar experience myself.
+
+## naked a.裸体的
+
+naked eye 肉眼
+
+He rushed out naked.
+
+## bare a.赤裸的，无遮蔽的
+
+Don't walk on the broken glass with bare feet.
+
+## intuition n.直觉
+
+My intuition turned out to be correct.
+
+## spontanous a.自然的，自然产生的
+
+It is a spontanous cheer from the crowd.
+
+## implicit a.暗示的，不怀疑的
+
+explicit a.清楚的
+
+Secretary n.秘书
+
+She has implicit trust in her secretary.
+
+## illusion n.错觉，幻想
+
+Some hairstyles can give an illusion of extra thickness.
+
+## imaginary a.想象的，虚构的
+
+imagination n.想象
+
+confrontation n.对质
+
+An imaginary confrontation was played out in my mind.
+
+## fancy n.想象，爱好 v.认为，想象
+
+fantasy n.幻想
+
+i fancy that it's going to rain.
+
+## fate n.命运
+
+as sure as fate 千真万确地
+
+She wondered what fate had in store for her next.
+
+## agony n.挣扎
+
+pass away 死去
+
+It was great agony to watch him passing away.
+
+## grief n.极度悲伤
+
+She did not show her grief when her son died.
+
+## grieve v.使悲伤
+
+sorrow n/v.悲伤
+
+It grieves me to see him in such bad health.
+
+## miserable a.痛苦的
+
+The child is cold,hungry,and tired,so of course he's feeling miserable.
+
+## distress n.悲痛，不幸 v.使伤心
+
+I pray that you will have pity on my distress.
+
+## gloomy a.幽暗的，令人沮丧的
+
+Being alone in that gloomy house made me nervous.
+
+## wretched a.不幸的，悲惨的
+
+I was shocked to seetheir wretched living conditions.
+
+## frustrating a.让人沮丧的
+
+After two hours of frustrating delay,the train at least arrived.
+
+## mourn v.哀悼
+
+mournful a.悲哀的
+
+We mourn for our fallen soldiers.
+
+## furious a.狂怒的
+
+fury n.狂怒
+
+furiously av.猛烈地
+
+instigate v.煽动
+
+The furious workers instigated a strike.
+
+## frown v/n.皱眉，不悦
+
+frown upon/on 不赞成
+
+Disapproval n.不赞同
+
+We interpret a frown as a sign of disapproval.
+
+## rage n.狂怒
+
+be all the rage 非常流向
+
+in a rage 怒气冲冲
+
+My father was in a rage last night.
+
+## irritate v.激怒
+
+irritant n.刺激物 a.有刺激性的
+
+irritation n.恼怒
+
+be irritated by/at 对..恼火
+
+The noise of the children was irritating me.
+
+## hatred n.憎恶
+
+his words wtirred up my hatred.
+
+## nuisance n.麻烦的人
+
+Don't make yourself a nuisance to others,
+
+## disgust v.使厌恶 n.厌恶
+
+The smell filled me with disgust.
+
+## vex v.使恼火
+
+She was vexed at her failure.
+
+## harass v.烦扰
+
+a gang of delinquent 一群小混混
+
+A gang of delinquents harassed the storekeeper from time to time.
+
+## bore v.烦扰 n.讨厌的人
+
+Don't bore me with these boring jokes.
+
+## troublesome a.麻烦的，令人烦恼的
+
+You must learn to rid yourself of such troublesome thoughts.
+
+## awful a.让人不愉快的
+
+Awfully av.非常
+
+It would be awful if he found out the truth.
+
+## adverse a.不利的，敌对的
+
+adversary n.敌手
+
+This policy will have an adverse effect on our new project.
+
+## hostile a.怀有敌意的，敌对的
+
+Ever since i got better marks than Parker,he has been hostile to me.
+
+## indignant a.愤愤不平的
+
+indignation n.义愤
+
+accusation n.指控
+
+He is indignant at the false accusation.
+
+## radical a.激进的，根本的
+
+radically av.根本地
+
+His opinions are very radical.
+
+## mad a.恼火的
+
+grief n.悲伤
+
+She was almost mad with grief when her son died.
+
+## wicked a.邪恶的
+
+wick n.灯芯
+
+torment v.折磨
+
+It is wicked of you to torment the poor dog.
+
+## vicious a.邪恶的
+
+She was shocked by the vicious criticism.
+
+## vulgar a.粗俗的
+
+Vulgar fashions filled the store windows.
+
+## ego n.自我，自负
+
+That promotion really boosted her ego.
+
+## selfish a.自私的
+
+He is possibly the most selfish man in the town.
+
+## nasty a.下流的
+
+He is a nasty guy.
+
+nasty about sth. 对sth态度不好
+
+woodshed n.木棚
+
+something nasty in the woodshed 不愉快的经历
+
+## rash a.草率的
+
+rashly av.草率的
+
+rashness n.急躁的
+
+predicament n.困境
+
+May i remind you it was your own rash actions that got us into this predicament.
+
+## volatile a.易变的，易挥发的
+
+People are afraid to change jobs in today's volatile economy.
+
+## weird a.奇怪的
+
+Her weird dress attracted attention in the small town.
+
+## excessive a.过多的
+
+patriotism n.爱国主义
+
+Excessive patriotism can lead to xenophobia.
+
+## anxiety n.焦虑
+
+Anxious a.焦虑的
+
+anxiously av.焦虑地
+
+disguise v.伪装
+
+It proved difficult to disguise his anxiety.
+
+## restless a.焦躁不安的
+
+audience n.观众
+
+The audience was becoming restless.
+
+## uneasy a.心神不安的
+
+Due to your injury,i feel uneasy.
+
+## timid a.胆小的
+
+You are every inch as timid as a mouse.Just speak up!
+
+## fuss n.大惊小怪
+
+make a fuss about 对..大惊小怪
+
+There's sure to be a fuss when they find the window's broken.
+
+## insult v/n.侮辱
+
+idiot n.白痴
+
+He insulted her by calling her an idiot.
+
+## envy n/v.嫉妒
+
+envy sb for sth 因sth羡慕sb
+
+The boy's new electronic toy train was the envy of his friend.
+
+## jealous a.嫉妒的
+
+be jealous of sb/sth 嫉妒sb/sth
+
+Guilt is always jealous.
+
+## suspicion n.怀疑
+
+He is under suspicion of murder.
+
+## sceptical a.怀疑的
+
+He has a sceptical attitude towards all religions.
+
+## unsatisfactory a.不满意的
+
+an unsatisfactory result 不满意的结果
+
+They demand a refund on unsatisfactory goods.
+
+## reluctant a.不情愿的
+
+reluctance n.不情愿的
+
+Be reluctant to do sth 不情愿做
+
+she was reluctant to leave the neighbourhood of Paris.
+
+## hesitate v.犹豫
+
+be hesitate to do 不愿意做sth
+
+Please don't hesitate to do it.
+
+## confuse v.困惑
+
+confuse A with/and B 搞混A和B
+
+confusion n.困惑
+
+confused a.感到困惑的
+
+confusing a.令人困惑的
+
+Austia n.奥地利
+
+australia n.澳大利亚
+
+Don't confuse Austia and australia.
+
+## guilty a.有罪的
+
+a guilty look 做贼的表情
+
+Whenever i think of how hard my parents are saving for my education and how little i've learned,i feel guilty.
+
+## embarrass v.使尴尬
+
+embarrassment n.窘迫
+
+compliment n.称赞
+
+I was embarrassed by their compliments.
+
+## repent v.忏悔
+
+He repented of his action.
+
+## sigh n/v.叹息
+
+She let out a long sigh of despair.
+
+## weep v/n.哭
+
+Laugh and the world laughs with you;weep and you weep alone.
+
+##  tolerance n.忍受
+
+tolerate v.忍受
+
+tolerable a.可忍受的
+
+rolerent a.宽容的
+
+We should always try to show tolerance to other people.
+
+## ignorant a.无知的
+
+ignore v.忽略
+
+be ignorant of 不知道
+
+Wise men become wiser as they grow older,ignorant men more ignorant.
+
+## endure v.忍耐
+
+I can't endure her endless complaints a moment longer.
+
+## sly a.狡猾的
+
+on the sly 秘密地
+
+She had a sly personlity.
+
+## cunning a.狡猾的
+
+You're cunning,and i can't work you out.
+
+## arbitrary a.武断的，任意的
+
+an arbitary value 任意值
+
+an arbitary parameter 任意参数
+
+My choice was quite arbitary.
+
+## ridiculous a.可笑的
+
+a ridiculous thought 胡思乱想
+
+Who made this ridiculous rule?
+
+## awkward a.笨挫的，不合适的
+
+The child is still awkward with his chopsticks.
+
+## clumsy a.笨戳的
+
+a clumsy excuse 笨戳的借口
+
+You are so clumsy!You've knocked over my cup of coffee!
+
+## oblivious a.不知道的
+
+She was oblivious to our warnings.
+
+## naughty a.淘气的
+
+Those naughty boys have been acting up again.
+
+## greedy a.贪婪的
+
+The greedy man is always needy.
+
+## obtrusive a.过度炫耀的，扎眼的
+
+Try to wear something less obtrusive.
+
+## slothful a.懒惰的
+
+sloth n.懒惰
+
+Fatigue has made him slothful.
+
+## sluggish a.迟缓的
+
+a sluggish market 不景气的市场
+
+If you don't eat breakfast,you will feel tired and sluggish.
+
+## impluse n.冲动
+
+feel an impluse 情不自禁
+
+follow an impluse 凭一时冲动
+
+He bought the house on an impulse.
+
+## rigid a.严格的，固执的
+
+The old man is very rigid in his ideas.
+
+## stubborn a.顽固的
+
+She won't do what i ask.She is very stubborn.
 
